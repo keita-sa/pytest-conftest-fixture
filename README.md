@@ -1,9 +1,10 @@
 # pytest-conftest-fixture
 
-✅request.configによるfixtureの書き方
+✅How to write fixture by request.config (request.configによるfixtureの書き方)
 
-✅conftest.pyの書き方
+✅How to write conftest.py (conftest.pyの書き方)
 
-✅パラメータ化
-  - テスト関数のパラメータ化
-  - fixtureのパラメータ化 
+✅Parameterization (パラメータ化)
+
+Parameterization of test functions (- テスト関数のパラメータ化)
+Parameterization of fixture (- fixtureのパラメータ化)
