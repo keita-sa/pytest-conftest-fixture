@@ -6,9 +6,9 @@
 
 ✅Parameterization
 
-Parameterization of test functions
+- Parameterization of test functions
 
-Parameterization of fixture
+- Parameterization of fixture
 
 ---
 
