@@ -1,4 +1,4 @@
-# pytest-conftest-fixture
+# pytest conftest fixture
 
 ✅　How to write fixture by request.config
 
