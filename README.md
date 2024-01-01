@@ -10,8 +10,8 @@
 
 - Parameterization of fixture
 
-\
-#\
+*\
+\*
 
 ---
 
