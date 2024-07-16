@@ -4,8 +4,8 @@
 
 ✅　How to write conftest.py 
 
-✅　Parameterization
+✅　Parametrization
 
-- Parameterization of test functions
+- Parametrization of test functions
 
-- Parameterization of fixture
+- Parametrization of fixture
