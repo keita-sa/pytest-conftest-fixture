@@ -11,4 +11,4 @@
 - Parametrization of fixture
 
 ## References
-_Sillicon Valley style_. Udemy.
+_Silicon Valley style_. Udemy.
