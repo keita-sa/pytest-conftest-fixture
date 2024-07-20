@@ -9,3 +9,6 @@
 - Parametrization of test functions
 
 - Parametrization of fixture
+
+## References
+_Sillicon Valley style_. Udemy.
