@@ -8,7 +8,6 @@
 170. conftest in pytest  
 171. fixture in pytest  
 <br>
-<br>
 ___________
 ✅　Fixture by request.config  
 ✅　Conftest.py  
