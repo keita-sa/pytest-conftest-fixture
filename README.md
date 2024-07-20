@@ -10,12 +10,10 @@
 <br>
 <br>
 ___________
-✅　How to write fixture by request.config  
-✅　How to write conftest.py  
+✅　Fixture by request.config  
+✅　Conftest.py  
 ✅　Parametrization  
 
-- Parametrization of test functions  
-- Parametrization of fixture  
 
 ## References
 _Python 3 from Silicon Valley coding style_. Udemy.
