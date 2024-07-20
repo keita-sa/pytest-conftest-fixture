@@ -1,6 +1,6 @@
 # Fixture, conftest in pytest  
 
-`Calculation.py` and `test_calculation.py` are created based on the following videos.
+`calculation.py` and `test_calculation.py` are created based on the following videos.
 <br>
 <br>  
 166. pytest  
