@@ -9,12 +9,12 @@
 171. fixture in pytest
 
 
-✅　How to write fixture by request.config
-✅　How to write conftest.py 
-✅　Parametrization
+✅　How to write fixture by request.config\
+✅　How to write conftest.py \
+✅　Parametrization \
 
-- Parametrization of test functions
-- Parametrization of fixture
+- Parametrization of test functions\
+- Parametrization of fixture\
 
 ## References
 _Python 3 from Silicon Valley coding style_. Udemy.
